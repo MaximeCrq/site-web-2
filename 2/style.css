@@ -1,0 +1,37 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EDDFC9;
+}
+
+header {
+    background-color: #49371F;
+    color: white;
+    text-align: center;
+    padding: 11px;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #373229;
+    color: white;
+}
